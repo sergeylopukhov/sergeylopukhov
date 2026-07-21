@@ -1,27 +1,21 @@
-# Сергей Лопухов
+## Sergey Lopukhov
 
-Создаю практичные open-source инструменты для AI-агентов, macOS и self-hosted инфраструктуры.
+I build small, practical tools for AI-assisted development, macOS, and self-hosted infrastructure. Most started as rough edges in my own workflow: something that needed a cleaner interface, a little automation, or less repetitive setup.
 
-## Направления
+### AI-assisted development
 
-- **AI-агенты и автоматизация** — инструменты для Codex, Claude Code и других coding agents.
-- **macOS-приложения** — небольшие утилиты, которые решают конкретные задачи без лишней сложности.
-- **Self-hosted и сети** — OpenWrt, Unraid, домашняя инфраструктура и интеграции.
+- [VK Ads MCP](https://github.com/sergeylopukhov/vk-ads-mcp-all-in-one) — a local MCP server for working with VK Ads accounts through a review-and-confirm workflow.
+- [Context Cartographer](https://github.com/sergeylopukhov/context-cartographer) — helps coding agents find the docs, rules, and architectural context that matter in an unfamiliar repository.
+- [Interactive Project Questionnaire](https://github.com/sergeylopukhov/interactive-project-questionnaire) — a local, clickable questionnaire that turns project discovery into structured Markdown and JSON.
 
-## Проекты
+### macOS
 
-| Проект | Что делает |
-| --- | --- |
-| [VK Ads MCP](https://github.com/sergeylopukhov/vk-ads-mcp-all-in-one) | Локальный MCP-сервер для анализа и безопасной работы с VK Ads. |
-| [FocusKeeper](https://github.com/sergeylopukhov/FocusKeeper) | Автоматически включает нужный режим фокусирования macOS при работе выбранных приложений. |
-| [Codex Limit Widget](https://github.com/sergeylopukhov/codex-limit-widget) | Строка меню и WidgetKit-виджет macOS для контроля лимитов Codex. |
-| [Context Cartographer](https://github.com/sergeylopukhov/context-cartographer) | Навигация по документации и правилам репозитория для AI coding agents. |
-| [Interactive Project Questionnaire](https://github.com/sergeylopukhov/interactive-project-questionnaire) | Локальный интерактивный опросник для сбора требований к проекту. |
-| [Unraid Russian Localization](https://github.com/sergeylopukhov/unraid-lang-ru_RU) | Русский языковой пакет для Unraid OS. |
-| [Yandex Internetometer for OpenWrt](https://github.com/sergeylopukhov/luci-app-yandex-internetometer) | LuCI-пакет и CLI для замеров скорости, пинга и джиттера на роутерах. |
+- [FocusKeeper](https://github.com/sergeylopukhov/FocusKeeper) — switches macOS Focus modes while selected apps are open.
+- [Codex Limit Widget](https://github.com/sergeylopukhov/codex-limit-widget) — a menu bar app and WidgetKit widget for tracking Codex usage limits and reset times.
 
-## Принципы
+### Home infrastructure
 
-- Сначала реальная польза, затем сложность.
-- Документация и безопасные настройки — часть продукта.
-- Маленькие законченные инструменты лучше бесконечных прототипов.
+- [Unraid Russian Localization](https://github.com/sergeylopukhov/unraid-lang-ru_RU) — a Russian language pack for Unraid OS, its web interface, and popular plugins.
+- [Yandex Internetometer for OpenWrt](https://github.com/sergeylopukhov/luci-app-yandex-internetometer) — a LuCI app and CLI for measuring latency, jitter, download, and upload speed on OpenWrt routers.
+
+Swift · Python · JavaScript · MCP · macOS · OpenWrt · Unraid
