@@ -5,7 +5,7 @@ I build small, practical tools for AI-assisted development, macOS, and self-host
 ### AI-assisted development
 
 - [VK Ads MCP](https://github.com/sergeylopukhov/vk-ads-mcp-all-in-one) — a local MCP server for working with VK Ads accounts through a review-and-confirm workflow.
-- [Context Cartographer](https://github.com/sergeylopukhov/context-cartographer) — helps coding agents find the docs, rules, and architectural context that matter in an unfamiliar repository.
+- [Context Cartographer](https://github.com/sergeylopukhov/context-cartographer) — creates documentation maps, repository instructions, and context files for AI coding agents.
 - [Interactive Project Questionnaire](https://github.com/sergeylopukhov/interactive-project-questionnaire) — a local, clickable questionnaire that turns project discovery into structured Markdown and JSON.
 
 ### macOS
